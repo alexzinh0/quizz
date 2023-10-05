@@ -2,30 +2,30 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "A ética tecnológica tradicional tem como fundamentação a ideia da:",
+    answer: "finalidade da ação",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "finalidade do comportamento",
+      "finalidade da ética",
+      "finalidade da ação",
+      "finalidade da salvação"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "para os filosofos gregos, a eudaimonia era:",
+    answer: "telos, ou objetivo das ações humanas",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "a mentira",
+      "deus da alvação",
+      "telos, ou objetivo das ações humanas",
+      "corrente de pensamento"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "já para o utilitarismo, a finalidade das ações humanas ŕ",
+    answer: "o prazer",
     options: [
       "Equinócio de outono",
       "Solstício de inverno",
